@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_handle_image.xml" value="0.1203125" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_handle_pdf.xml" value="0.1203125" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_handle_video.xml" value="0.1203125" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_imagehandle.xml" value="0.13229166666666667" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_main.xml" value="0.1203125" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_pdf_assets.xml" value="0.1046875" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_pdf_internet.xml" value="0.1" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_pdf_storage.xml" value="0.1046875" />
+        <entry key="..\:/BinarAcademy/app/File_Processing/app/src/main/res/layout/activity_pdf_webview.xml" value="0.1203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
